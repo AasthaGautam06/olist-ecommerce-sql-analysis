@@ -1,0 +1,8 @@
+# Raw Olist dataset files
+# Dataset CSVs are excluded because they are large and can be
+# downloaded separately from the original dataset source.
+data/*.csv
+
+# OS-generated files
+.DS_Store
+Thumbs.db
